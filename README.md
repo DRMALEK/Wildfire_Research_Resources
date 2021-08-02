@@ -1,9 +1,8 @@
 # Wildfire Research Resources
 
-![AAMOTWc](https://user-images.githubusercontent.com/27784386/127875372-5c825c5c-c3ff-4279-8452-ffe7327bd817.jpg)
+<p align="center"><img src="https://user-images.githubusercontent.com/27784386/127931404-22f76cc6-4d64-4b6a-aadd-2fc7e04b9df2.jpg" width="750px" height="400px"/></p>
 
-
-- A repository to be used as a resource for detection, forecasting and segmentation of wildfires, after the heart-breaking wildfires in Turkey 🇹🇷 
+- A repository to be used as a resource for detection, forecasting and segmentation of wildfires, after the heart-breaking wildfires in Turkey 🇹🇷. 
 
 - If there's anything you think should be included here, you can submit an issue and I'll check it out.
 
