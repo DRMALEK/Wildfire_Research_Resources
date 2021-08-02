@@ -6,7 +6,7 @@
 
 - If there's anything you think should be included here, you can submit an issue and I'll check it out.
 
-### Research 
+### Research 🔬
 | Title | URL | Code
 |---|---|---|
 | A review of machine learning applications in wildfire science and management | https://arxiv.org/pdf/2003.00646v2.pdf | - |
@@ -28,7 +28,7 @@
 |  FIRe-GAN: A novel Deep Learning-based infrared-visible fusion method for wildfire imagery | https://arxiv.org/pdf/2101.11745v2.pdf | https://github.com/JorgeFCS/Image-fusion-GAN |
 |  Safe Coordination of Human-Robot Firefighting Teams| https://arxiv.org/pdf/1903.06847v1.pdf  | - |
 
-### Datasets
+### Datasets 📊
 |  DataSet Type | URL |
 |---|---|
    |  Kaggle - Tabular Data |  https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020 |
@@ -58,7 +58,7 @@
    |   General - Mixed Images And Videos |  http://wildfire.fesb.hr/ 
 
 
-### Deep Learning Projects
+### Deep Learning Projects 
 |  Project Title| URL |
 |---|---|
 |  Computer vision library for wildfire detection | https://github.com/pyronear/pyro-vision |
