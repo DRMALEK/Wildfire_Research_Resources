@@ -25,6 +25,26 @@
 
 
 ### Research 
+| Title | URL | Code
+|---|---|---|
+| A review of machine learning applications in wildfire science and management | https://arxiv.org/pdf/2003.00646v2.pdf | - |
+|  Deep Learning Models for Predicting Wildfires from Historical Remote-Sensing Data| https://arxiv.org/pdf/2010.07445v3.pdf |-|
+|  Modeling Wildfire Perimeter Evolution using Deep Neural Networks| https://arxiv.org/pdf/2009.03977v1.pdf | - |
+|  EscapeWildFire: Assisting People to Escape Wildfires in Real-Time | https://arxiv.org/pdf/2102.11558v1.pdf | - |
+|  Monitoring the Impact of Wildfires on Tree Species with Deep Learning| https://arxiv.org/pdf/2011.02514v2.pdf | - |
+|  A 3D Convolutional Neural Network for Predicting Wildfire Profiles| https://openreview.net/pdf?id=aia4HejvBmY | - |
+|  Coordinated Control of UAVs for Human-Centered Active Sensing of Wildfires| https://arxiv.org/pdf/2006.07969v1.pdf | - |
+|  Distributed Wildfire Surveillance with Autonomous Aircraft using Deep Reinforcement Learning | https://arxiv.org/pdf/1810.04244v1.pdf | - |
+|  Reinforcement Learning based Proactive Control for Transmission Grid Resilience to Wildfire | https://arxiv.org/pdf/2107.05756v1.pdf | - |
+|  Slash or burn: Power line and vegetation classification for wildfire prevention | https://arxiv.org/pdf/2105.03804v1.pdf | - |
+|  Dense Forecasting of Wildfire Smoke Particulate Matter Using Sparsity Invariant Convolutional Neural Networks | https://arxiv.org/pdf/2009.11362v1.pdf | - |
+|  From Static to Dynamic Prediction: Wildfire Risk Assessment Based on Multiple Environmental Factors | https://arxiv.org/pdf/2103.10901v1.pdf | - |
+|  RtFPS: An Interactive Map that Visualizes and Predicts Wildfires in the US| https://arxiv.org/pdf/2105.10880v2.pdf | https://github.com/yangland/rtfps |
+|  Image-based Guidance of Autonomous Aircraft for Wildfire Surveillance and Prediction | https://arxiv.org/pdf/1810.02455v2.pdf | https://github.com/sisl/UAV_Wildfire_Monitoring |
+|  Detecting natural disasters, damage, and incidents in the wild | https://arxiv.org/pdf/2008.09188v1.pdf | https://github.com/ethanweber/IncidentsDataset |
+|  Active Fire Detection in Landsat-8 Imagery: a Large-Scale Dataset and a Deep-Learning Study | https://arxiv.org/pdf/2101.03409v2.pdf | https://github.com/pereira-gha/activefire |
+|  FIRe-GAN: A novel Deep Learning-based infrared-visible fusion method for wildfire imagery | https://arxiv.org/pdf/2101.11745v2.pdf | https://github.com/JorgeFCS/Image-fusion-GAN |
+|  Safe Coordination of Human-Robot Firefighting Teams| https://arxiv.org/pdf/1903.06847v1.pdf  | - |
 
 
 ### Datasets
