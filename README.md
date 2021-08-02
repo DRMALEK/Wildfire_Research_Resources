@@ -15,7 +15,6 @@
 |  Wildfire Detection with Deep Neural Networks |  	https://github.com/tomek-l/fire-detect-nn |
 |  Smoke-Detection-using-Tensorflow 2.2 |  https://github.com/abg3/Smoke-Detection-using-Tensorflow-2.2 |
 |  Hermes is a Wildfire detection system that utilizes Computer Vision and is accelerated using NVIDIA Deepstream |  https://github.com/kn1ghtf1re/Hermes-Deepstream |
-|  Wildfire Detection with Deep Neural Networks |  https://github.com/tomek-l/fire-detect-nn |
 
 ### APIs And Platforms
 |  Project Title| URL |
