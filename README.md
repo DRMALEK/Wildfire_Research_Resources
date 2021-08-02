@@ -6,23 +6,6 @@
 
 - If there's anything you think should be included here, you can submit an issue and I'll check it out.
 
-### Deep Learning Projects
-|  Project Title| URL |
-|---|---|
-|  Computer vision library for wildfire detection | https://github.com/pyronear/pyro-vision |
-|  Using U-Net Model to Detect Wildfire from Satellite Imagery |  https://github.com/yueureka/WildFireDetection |
-|  Wildfire Detection with Deep Neural Networks |  	https://github.com/tomek-l/fire-detect-nn |
-|  Smoke-Detection-using-Tensorflow 2.2 |  https://github.com/abg3/Smoke-Detection-using-Tensorflow-2.2 |
-|  Hermes is a Wildfire detection system that utilizes Computer Vision and is accelerated using NVIDIA Deepstream |  https://github.com/kn1ghtf1re/Hermes-Deepstream |
-
-### APIs And Platforms
-|  Project Title| URL |
-|---|---|
-|  Spotfire is a crowd-sourcing tool that can support real-time detection and monitoring of wildfire | https://github.com/AhmedMaghawry/SPOFI |
-|  API for wildfire prevention, detection & monitoring |  https://github.com/pyronear/pyro-api |
-|  Detection & monitoring platform of wildfires |  https://github.com/pyronear/pyro-platform |
-
-
 ### Research 
 | Title | URL | Code
 |---|---|---|
@@ -44,7 +27,6 @@
 |  Active Fire Detection in Landsat-8 Imagery: a Large-Scale Dataset and a Deep-Learning Study | https://arxiv.org/pdf/2101.03409v2.pdf | https://github.com/pereira-gha/activefire |
 |  FIRe-GAN: A novel Deep Learning-based infrared-visible fusion method for wildfire imagery | https://arxiv.org/pdf/2101.11745v2.pdf | https://github.com/JorgeFCS/Image-fusion-GAN |
 |  Safe Coordination of Human-Robot Firefighting Teams| https://arxiv.org/pdf/1903.06847v1.pdf  | - |
-
 
 ### Datasets
 |  DataSet Type | URL |
@@ -74,6 +56,24 @@
    |   General - Images - Remote Sensing |  https://gisdata.mn.gov/dataset/env-wildfires-tracked-by-mndnr    |
    |---|---|
    |   General - Mixed Images And Videos |  http://wildfire.fesb.hr/ 
+
+
+### Deep Learning Projects
+|  Project Title| URL |
+|---|---|
+|  Computer vision library for wildfire detection | https://github.com/pyronear/pyro-vision |
+|  Using U-Net Model to Detect Wildfire from Satellite Imagery |  https://github.com/yueureka/WildFireDetection |
+|  Wildfire Detection with Deep Neural Networks |  	https://github.com/tomek-l/fire-detect-nn |
+|  Smoke-Detection-using-Tensorflow 2.2 |  https://github.com/abg3/Smoke-Detection-using-Tensorflow-2.2 |
+|  Hermes is a Wildfire detection system that utilizes Computer Vision and is accelerated using NVIDIA Deepstream |  https://github.com/kn1ghtf1re/Hermes-Deepstream |
+
+### APIs And Platforms
+|  Project Title| URL |
+|---|---|
+|  Spotfire is a crowd-sourcing tool that can support real-time detection and monitoring of wildfire | https://github.com/AhmedMaghawry/SPOFI |
+|  API for wildfire prevention, detection & monitoring |  https://github.com/pyronear/pyro-api |
+|  Detection & monitoring platform of wildfires |  https://github.com/pyronear/pyro-platform |
+
     
 ### Author
 @DRMALEK
