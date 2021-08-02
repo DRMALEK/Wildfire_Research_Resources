@@ -24,3 +24,35 @@ A repository for state-of-the-art resources for detection, forecasting and segme
 
 
 ### Datasets
+|  DataSet Type | URL |
+|---|---|
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020 |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/annieichen/top-20-largest-california-wildfires |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/fritzstevenson/oregons-historical-wildfires |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/selfishgene/historical-hourly-weather-data |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/dryad/human-mobility-during-natural-disasters |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/capcloudcoder/us-wildfire-data-plus-other-attributes|
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/chelseazaloumis/cimis-dataset-with-fire-target |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/new-york-state/nys-forest-ranger-wildland-fire-reporting |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/jl87817/calfire-wildfire-incidents-2013-2020 |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/munizigor/2020-fire-spots-in-brasilia |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/cavfiumella/us-weather-daily-summaries-1991-2016 |
+   |---|---|
+   |   Kaggle - Images - RGB |  https://www.kaggle.com/kutaykutlu/forest-fire  |
+   |   Kaggle - Images - RGB | https://www.kaggle.com/rtatman/188-million-us-wildfires  |
+   |---|---|
+   |   General - Tabular Data | https://datasetguide.com/dataset/98598815dcebe9b0b398263fa4a5b371/   |
+   |   General - Tabular Data |  https://www.statista.com/statistics/1043895/number-wildfires-south-america-country/   |
+   |   General - Tabular Data |  https://data.humdata.org/dataset/wildfires?force_layout=desktop    |
+   |---|---|
+   |   General - Images - RGB |  https://data.world/uci/forest-fires    |
+   |   General - Images - RGB |  https://gisdata.mn.gov/dataset/env-wildfires-tracked-by-mndnr   |
+   |---|---|
+   |   General - Images - Remote Sensing |  https://gisdata.mn.gov/dataset/env-wildfires-tracked-by-mndnr    |
+   |---|---|
+   |   General - Mixed Images And Videos |  http://wildfire.fesb.hr/ 
+    
+
+
+           
+
