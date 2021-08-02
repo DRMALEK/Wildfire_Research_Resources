@@ -1,4 +1,4 @@
-# Widlfire Research Resources
+# Wildfire Research Resources
 
 ![AAMOTWc](https://user-images.githubusercontent.com/27784386/127875372-5c825c5c-c3ff-4279-8452-ffe7327bd817.jpg)
 
