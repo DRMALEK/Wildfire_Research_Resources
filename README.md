@@ -58,7 +58,7 @@
    |   General - Mixed Images And Videos |  http://wildfire.fesb.hr/ 
 
 
-### Deep Learning Projects 
+### Deep Learning Projects 😎
 |  Project Title| URL |
 |---|---|
 |  Computer vision library for wildfire detection | https://github.com/pyronear/pyro-vision |
@@ -67,7 +67,7 @@
 |  Smoke-Detection-using-Tensorflow 2.2 |  https://github.com/abg3/Smoke-Detection-using-Tensorflow-2.2 |
 |  Hermes is a Wildfire detection system that utilizes Computer Vision and is accelerated using NVIDIA Deepstream |  https://github.com/kn1ghtf1re/Hermes-Deepstream |
 
-### APIs And Platforms
+### APIs And Platforms 🤓
 |  Project Title| URL |
 |---|---|
 |  Spotfire is a crowd-sourcing tool that can support real-time detection and monitoring of wildfire | https://github.com/AhmedMaghawry/SPOFI |
