@@ -75,7 +75,7 @@
    |---|---|
    |   General - Mixed Images And Videos |  http://wildfire.fesb.hr/ 
     
-### Author:
+### Author
 @DRMALEK
 
            
