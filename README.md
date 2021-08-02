@@ -1,6 +1,10 @@
 # Widlfire_Research_Resources
-A repository for state-of-the-art resources for detection, forecasting and segmentation of wildfires
 
+![AAMOTWc](https://user-images.githubusercontent.com/27784386/127875372-5c825c5c-c3ff-4279-8452-ffe7327bd817.jpg)
+
+
+- A repository to be used as a resource for detection, forecasting and segmentation of wildfires, after the heart-breaking wildfires in Turkey 🇹🇷 
+- If there's anything you think should be included here, you can submit an issue and I'll check it out.
 
 ### Deep Learning Projects
 |  Project Title| URL |
