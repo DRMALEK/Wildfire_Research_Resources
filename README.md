@@ -10,6 +10,7 @@
 | Title | URL | Code
 |---|---|---|
 | A review of machine learning applications in wildfire science and management | https://arxiv.org/pdf/2003.00646v2.pdf | - |
+| FireCast: Leveraging Deep Learning to Predict Wildfire Spread | https://www.ijcai.org/Proceedings/2019/0636.pdf | - |
 |  Deep Learning Models for Predicting Wildfires from Historical Remote-Sensing Data| https://arxiv.org/pdf/2010.07445v3.pdf |-|
 |  Modeling Wildfire Perimeter Evolution using Deep Neural Networks| https://arxiv.org/pdf/2009.03977v1.pdf | - |
 |  EscapeWildFire: Assisting People to Escape Wildfires in Real-Time | https://arxiv.org/pdf/2102.11558v1.pdf | - |
