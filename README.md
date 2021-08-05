@@ -10,6 +10,7 @@
 | Title | URL
 |---|---|
 | A review of machine learning applications in wildfire science and management | https://arxiv.org/pdf/2003.00646v2.pdf |
+| An insight into machine-learning algorithms to model human-caused wildfire occurrence | https://doi.org/10.1016/j.envsoft.2014.03.003 |
 | FireCast: Leveraging Deep Learning to Predict Wildfire Spread | https://www.ijcai.org/Proceedings/2019/0636.pdf | 
 | Near Real-Time Wildfire Progression Monitoring with Sentinel-1 SAR Time Series and Deep Learning |https://www.nature.com/articles/s41598-019-56967-x |
 | Saliency Detection and Deep Learning-Based Wildfire Identification in UAV Imagery | https://www.mdpi.com/1424-8220/18/3/712/html | 
