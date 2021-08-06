@@ -4,8 +4,6 @@
 
 - A repository to be used as a resource in the wildfire area like the detection, forecasting, and segmentation of wildfires 🔥, after the heart-breaking wildfires in Turkey ❤️ 
 
-- If there's anything you think should be included here, you can submit an issue and I'll check it out.
-
 ### Research 🔬
 | Title | URL
 |---|---|
@@ -80,9 +78,10 @@
 |  API for wildfire prevention, detection & monitoring |  https://github.com/pyronear/pyro-api |
 |  Detection & monitoring platform of wildfires |  https://github.com/pyronear/pyro-platform |
 
+
+### Contributing 🤝
+- If there's anything you think should be included here, you can submit an issue and I'll check it out.
     
 ### Author
 @DRMALEK
-
-           
 
