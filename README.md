@@ -1,4 +1,4 @@
-# Wildfire Research Resources
+# Wildfire Research Resources 🌳
 
 <p align="center"><img src="https://user-images.githubusercontent.com/27784386/127931404-22f76cc6-4d64-4b6a-aadd-2fc7e04b9df2.jpg" width="750px" height="400px"/></p>
 
