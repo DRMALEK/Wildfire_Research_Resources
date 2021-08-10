@@ -33,7 +33,7 @@ A repository to be used as a resource in the wildfire area like the detection, f
 
 ### Datasets 📊
 |  DataSet Type | Title URL |
-|---|---|
+   |---|---|
    |  Kaggle - Tabular Data |  https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020 |
    |  Kaggle - Tabular Data |  https://www.kaggle.com/annieichen/top-20-largest-california-wildfires |
    |  Kaggle - Tabular Data |  https://www.kaggle.com/fritzstevenson/oregons-historical-wildfires |
@@ -60,7 +60,9 @@ A repository to be used as a resource in the wildfire area like the detection, f
    |---|---|
    |   General - Images - Remote Sensing |  https://gisdata.mn.gov/dataset/env-wildfires-tracked-by-mndnr    |
    |---|---|
-   |   General - Mixed Images And Videos |  http://wildfire.fesb.hr/ 
+   |   General - Mixed Images And Videos |  http://wildfire.fesb.hr/ |
+   |---|---|
+   |   Github - Mixed Images And Videos |  https://github.com/ubc-lib-geo/awesome-wildfire | 
 
 
 ### Deep Learning Projects 😎
@@ -79,6 +81,9 @@ A repository to be used as a resource in the wildfire area like the detection, f
 |  Spotfire is a crowd-sourcing tool that can support real-time detection and monitoring of wildfire | https://github.com/AhmedMaghawry/SPOFI |
 |  API for wildfire prevention, detection & monitoring |  https://github.com/pyronear/pyro-api |
 |  Detection & monitoring platform of wildfires |  https://github.com/pyronear/pyro-platform |
+
+
+
 
 
 ### Contributing 🤝
