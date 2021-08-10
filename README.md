@@ -32,7 +32,7 @@ A repository to be used as a resource in the wildfire area like the detection, f
 |  Safe Coordination of Human-Robot Firefighting Teams| https://arxiv.org/pdf/1903.06847v1.pdf  | 
 
 ### Datasets 📊
-|  DataSet Type | URL |
+|  DataSet Type | Title URL |
 |---|---|
    |  Kaggle - Tabular Data |  https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020 |
    |  Kaggle - Tabular Data |  https://www.kaggle.com/annieichen/top-20-largest-california-wildfires |
@@ -53,6 +53,7 @@ A repository to be used as a resource in the wildfire area like the detection, f
    |   General - Tabular Data | https://datasetguide.com/dataset/98598815dcebe9b0b398263fa4a5b371/   |
    |   General - Tabular Data |  https://www.statista.com/statistics/1043895/number-wildfires-south-america-country/   |
    |   General - Tabular Data |  https://data.humdata.org/dataset/wildfires?force_layout=desktop    |
+   |   General - Tabular Data |  https://cwfis.cfs.nrcan.gc.ca/ha/nfdb    |
    |---|---|
    |   General - Images - RGB |  https://data.world/uci/forest-fires    |
    |   General - Images - RGB |  https://gisdata.mn.gov/dataset/env-wildfires-tracked-by-mndnr   |
