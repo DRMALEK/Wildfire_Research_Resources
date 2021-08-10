@@ -45,6 +45,7 @@ A repository to be used as a resource in the wildfire area like the detection, f
    |  Kaggle - Tabular Data |  https://www.kaggle.com/jl87817/calfire-wildfire-incidents-2013-2020 |
    |  Kaggle - Tabular Data |  https://www.kaggle.com/munizigor/2020-fire-spots-in-brasilia |
    |  Kaggle - Tabular Data |  https://www.kaggle.com/cavfiumella/us-weather-daily-summaries-1991-2016 |
+   |  Kaggle - Tabular Data |  https://www.kaggle.com/c/predicting-forest-fires-f2019/overview |
    |---|---|
    |   Kaggle - Images - RGB |  https://www.kaggle.com/kutaykutlu/forest-fire  |
    |   Kaggle - Images - RGB | https://www.kaggle.com/rtatman/188-million-us-wildfires  |
