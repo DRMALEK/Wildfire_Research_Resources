@@ -78,6 +78,7 @@ A repository to be used as a resource in the wildfire area like the detection, f
 ### APIs And Platforms 🤓
 |  Project Title| URL |
 |---|---|
+|  WIFIRE: Wildfire lab of University of California, San Diego | https://wifire.ucsd.edu/ |
 |  Spotfire is a crowd-sourcing tool that can support real-time detection and monitoring of wildfire | https://github.com/AhmedMaghawry/SPOFI |
 |  API for wildfire prevention, detection & monitoring |  https://github.com/pyronear/pyro-api |
 |  Detection & monitoring platform of wildfires |  https://github.com/pyronear/pyro-platform |
