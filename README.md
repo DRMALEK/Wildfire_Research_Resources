@@ -68,6 +68,7 @@ A repository to be used as a resource in the wildfire area like the detection, f
 ### Deep Learning Projects 😎
 |  Project Title| URL |
 |---|---|
+|  Collection of resources for fire-detection using Nueral nets | https://github.com/robmarkcole/fire-detection-from-images |
 |  Computer vision library for wildfire detection | https://github.com/pyronear/pyro-vision |
 |  Using U-Net Model to Detect Wildfire from Satellite Imagery |  https://github.com/yueureka/WildFireDetection |
 |  Wildfire Detection with Deep Neural Networks |  	https://github.com/tomek-l/fire-detect-nn |
